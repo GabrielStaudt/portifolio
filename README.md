@@ -2,7 +2,9 @@
 
 Portfólio pessoal com três páginas: apresentação, projetos e perfil profissional.
 
-**Site:** [gabriel-staudt-portfolio.euteconheco.chatgpt.site](https://gabriel-staudt-portfolio.euteconheco.chatgpt.site)
+**Site:** [gabrielstaudt.github.io/portifolio](https://gabrielstaudt.github.io/portifolio/)
+
+**Publicação adicional:** [Sites](https://gabriel-staudt-portfolio.euteconheco.chatgpt.site)
 
 ## Páginas
 
@@ -35,11 +37,13 @@ Acesse `http://localhost:4173`. O diretório `dist/` é gerado e não é version
 
 Edite os arquivos em `src/`, execute o build e a verificação. A integração contínua executa esses comandos a cada push ou pull request para `main`.
 
-A hospedagem atual usa Sites. A configuração está em `.openai/hosting.json`. Para publicar uma atualização com Codex, peça a atualização do Site existente usando esse identificador. Um push para este GitHub, sozinho, não publica no Sites.
+A hospedagem principal usa GitHub Pages. Cada push em `main` executa o build, verifica os links e publica o site. O repositório permanece público.
 
-### Alternativa: GitHub Pages
+A publicação adicional no Sites usa `.openai/hosting.json`. Para atualizá-la com Codex, peça a atualização do Site existente usando esse identificador. Um push neste GitHub atualiza o GitHub Pages, mas não o Sites.
 
-Em **Settings → Pages**, selecione **GitHub Actions** como origem. O workflow `pages.yml` permite publicação manual e publica novos pushes em `main`. O endereço padrão será `https://gabrielstaudt.github.io/portifolio/` após a primeira implantação bem-sucedida. O workflow usa caminhos relativos para funcionar sob `/portifolio/`.
+### GitHub Pages
+
+O GitHub Pages já está habilitado com **GitHub Actions** como origem. O workflow `pages.yml` também permite publicação manual. O site usa caminhos relativos para funcionar sob `/portifolio/`.
 
 ## Padrões do projeto
 
