@@ -1,6 +1,6 @@
 # 🚀 Portfólio | Gabriel Staudt
 
-Portfólio pessoal com foco em desenvolvimento de software, automação e análise de dados, apresentando meus projetos, minha formação e meus interesses em tecnologia.
+Portfólio pessoal com foco em tecnologia, suporte técnico e Customer Success, apresentando meus projetos, minha formação e meus interesses em tecnologia.
 
 🔗 **[Acesse o portfólio](https://gabrielstaudt.github.io/portifolio/)**
 
@@ -34,7 +34,7 @@ Portfólio pessoal com foco em desenvolvimento de software, automação e análi
 
 <img src="./assets/screenshots/mobile/inicio.jpg" alt="Início do portfólio no celular" width="390">
 
-[Visualizar página mobile completa](./assets/screenshots/mobile/pagina-completa.jpg) · [Sobre mim](./assets/screenshots/mobile/sobre-mim.jpg) · [Projetos](./assets/screenshots/mobile/projetos.jpg)
+[Sobre mim](./assets/screenshots/mobile/sobre-mim.jpg) · [Projetos](./assets/screenshots/mobile/projetos.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ Veja a origem e a organização dos arquivos em [assets/README.md](./assets/READ
 
 ## 🛠️ Tecnologias
 
-HTML, CSS, JavaScript e Node.js para gerar o site. Publicação automática no GitHub Pages.
+HTML, CSS e Node.js para gerar o site. Publicação automática no GitHub Pages.
 
 ## ▶️ Executar
 
@@ -70,6 +70,10 @@ Abra `dist/index.html` ou consulte o [guia de desenvolvimento](./docs/DESENVOLVI
 ## 🤝 Contribuição
 
 Commits seguem Conventional Commits: `feat:`, `fix:`, `docs:` e `ci:`. Orientações em [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## 👨‍💻 Perfil profissional
+
+Analista de Suporte na Redrive, com experiência em atendimento, Customer Success, integrações e acompanhamento de demandas. Estudante do 8º período de Sistemas de Informação na Unochapecó. A trajetória completa, os cursos e os idiomas estão na página [Sobre mim](https://gabrielstaudt.github.io/portifolio/sobre.html).
 
 ## 📄 Licença e referências
 

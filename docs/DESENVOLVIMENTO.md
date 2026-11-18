@@ -13,7 +13,6 @@ src/
   projetos.html        Projetos e detalhes
   sobre.html           Perfil e formação
   styles.css           Identidade visual, responsividade e impressão
-  profile.js           Ação de impressão
 scripts/
   build.mjs            Gera dist/ e copia os assets utilizados pelo site
   check.mjs            Verifica páginas, links e âncoras
@@ -43,7 +42,7 @@ O build recria apenas a pasta `dist/` dentro do projeto. Fontes, ícones e image
 
 ## Atualizar
 
-Edite `src/` e os assets de uso do site. Rode o build e a verificação. Confira as três páginas em desktop e celular, os detalhes dos projetos, as âncoras, a navegação por teclado e a impressão do perfil quando afetadas.
+Edite `src/` e os assets de uso do site. Rode o build e a verificação. Confira as três páginas em desktop e celular, os detalhes dos projetos, as âncoras e a navegação por teclado.
 
 As fontes são locais; não há dependência de CDN de CSS ou carregamento remoto da foto.
 
@@ -61,10 +60,7 @@ A publicação adicional em Sites usa o identificador preservado em `.openai/hos
 
 Perfil: https://github.com/GabrielStaudt
 
-Projeto de análise exploratória:
-https://github.com/GabrielStaudt/An-lise-Explorat-ria-de-Dados-EDA-
-
-O gráfico é uma ilustração conceitual. Métricas de estrelas, commits e contribuições não são simuladas.
+As informações profissionais, a formação, os cursos e os idiomas seguem o currículo fornecido por Gabriel. Métricas de estrelas, commits e contribuições não são simuladas.
 
 ## Git
 

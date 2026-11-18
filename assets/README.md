@@ -27,7 +27,7 @@ Ambas usam SIL Open Font License. Os arquivos foram baixados das distribuições
 
 `screenshots/desktop/`: início, sobre mim, habilidades, projetos e contato, em viewport de 1280 × 900.
 
-`screenshots/mobile/`: início, sobre mim e projetos em viewport de 390 × 844, mais a captura vertical da página inicial.
+`screenshots/mobile/`: início, sobre mim e projetos em viewport de 390 × 844.
 
 Capturas feitas no navegador a partir desta versão do site. Para atualizar, rode o build e o servidor local, confira o visual e substitua as imagens mantendo os nomes usados pelo README.
 
@@ -35,4 +35,4 @@ As capturas servem à documentação e não são copiadas para a publicação.
 
 ## Elementos em CSS
 
-A malha de fundo, os brilhos, o painel de terminal e o gráfico conceitual são desenhados por CSS e HTML em `src/`. Não dependem de imagens externas.
+A malha de fundo, os brilhos e o painel de terminal são desenhados por CSS e HTML em `src/`. Não dependem de imagens externas.
